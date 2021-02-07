@@ -1,0 +1,24 @@
+{
+  "name": "virtual-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kryst4ljy/virtual-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kryst4ljy/virtual-dom/issues"
+  },
+  "homepage": "https://github.com/Kryst4ljy/virtual-dom#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
